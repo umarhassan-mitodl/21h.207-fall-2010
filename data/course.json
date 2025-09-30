@@ -1,0 +1,64 @@
+{
+  "term": "Fall",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Energy",
+      "Fossil Fuels"
+    ],
+    [
+      "Humanities",
+      "History",
+      "American History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Modern History"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Environmental Policy"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Science and Technology Policy"
+    ]
+  ],
+  "legacy_uid": "94c6f835-b016-a8d5-42fc-730f8f903fd9",
+  "instructors": {
+    "content": [
+      "3adb03b8-ce50-00b1-bee0-2cb32d87ad92"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "d8e20c9c-627b-b798-c196-b35aa6467164",
+    "website": "21h-207-the-energy-crisis-past-and-present-fall-2010"
+  },
+  "course_title": "The Energy Crisis: Past and Present",
+  "hide_download": true,
+  "course_description": "This course will explore how Americans have confronted energy challenges since the end of World War II. Beginning in the 1970s, Americans worried about the supply of energy. As American production of oil declined, would the US be able to secure enough fuel to sustain their high consumption lifestyles? At the same time, Americans also began to fear the environmental side affects of energy use. Even if the US had enough fossil fuel, would its consumption be detrimental to health and safety? This class examines how Americans thought about these questions in the last half-century. We will consider the political, diplomatic, economic, cultural, and technological aspects of the energy crisis. Topics include nuclear power, suburbanization and the new car culture, the environmental movement and the challenges of clean energy, the Middle East and supply of oil, the energy crisis of the 1970s, and global warming.\n",
+  "department_numbers": [
+    "21H"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21H.207",
+  "course_image_thumbnail": {
+    "content": "2689d902-498d-615a-7665-a652944c8035",
+    "website": "21h-207-the-energy-crisis-past-and-present-fall-2010"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "343a0be1-c81c-4769-961d-cbfab3ba9e6b",
+  "site_short_id": "21h.207-fall-2010",
+  "site_url_path": "courses/21h-207-the-energy-crisis-past-and-present-fall-2010",
+  "title": "Course Metadata"
+}
